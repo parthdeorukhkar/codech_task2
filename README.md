@@ -1,5 +1,9 @@
 # codech_task1
-Name: Parth Deorukhkar Company Name: Codetech IT Solutions ID: CT08EIV Domain: Python Duration:December 17th, 2024 to January 17th, 2025 Mentor: Neela Santhosh Kumar
+Name: Parth Deorukhkar 
+Company Name: Codetech IT Solutions 
+ID: CT08EIV Domain: Python Duration:December 17th, 2024 to January 17th, 2025 
+Mentor: Neela Santhosh Kumar
+Task: 2 Student Grade Tracker
 
 Project Overview
 The project involves developing a Python program to track and manage student grades. The application is designed to enable users to input grades for various subjects or assignments, calculate the average grade, and provide additional insights such as the overall letter grade or GPA.
